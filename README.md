@@ -1,11 +1,19 @@
-Este projeto é um programa desenvolvido em C que recebe um número inteiro e exibe sua tabuada de multiplicação de 1 a 10.
-É necessário ter o compilador GCC instalado.
-Compile o programa com o comando: gcc main.c -o tabuada
-Execute no Linux: ./tabuada
-Execute no Windows: tabuada.exe
-Exemplo:
-Entrada: 2
-Saída:
+# Tabuada em C
+Este projeto é um programa desenvolvido em C que recebe um número inteiro e exibe a sua tabuada de multiplicação de 1 a 10.
+##  Requisitos
+É necessário ter o compilador **GCC** instalado.
+##  Como Compilar e Executar
+1. **Compilar o programa:** bash
+gcc main.c -o tabuada
+2. **Executar no Linux:** bash
+./tabuada
+3. **Executar no Windows:**cmd
+tabuada.exe
+## Exemplo de Uso
+**Entrada:**
+`2`
+**Saída:**
+text
 2 x 1 = 2
 2 x 2 = 4
 2 x 3 = 6
@@ -16,4 +24,3 @@ Saída:
 2 x 8 = 16
 2 x 9 = 18
 2 x 10 = 20
-
