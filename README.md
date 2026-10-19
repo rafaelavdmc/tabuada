@@ -6,7 +6,7 @@ Este projeto é um programa desenvolvido em C que recebe um número inteiro e ex
 1. **Compilar o programa:**
 gcc main.c -o tabuada
 2. **Executar no Linux:**
-bash ./tabuada
+./tabuada
 3. **Executar no Windows:**
 tabuada.exe
 ## Exemplo de Uso
